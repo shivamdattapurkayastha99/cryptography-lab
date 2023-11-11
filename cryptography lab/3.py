@@ -1,0 +1,5 @@
+tuple=(1,2,3)
+print(tuple)
+print(sum(tuple))
+print(type(tuple))
+print(type(tuple[0]))
